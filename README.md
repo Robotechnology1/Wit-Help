@@ -22,6 +22,8 @@ baldness - Tells you how shiny your scalp is.
 
 failure - Tells you what percentage of a failure you are.
 
+yomama - Insults your mother. Lol.
+
 skillrate - You give me the topic, I give you your skill rate.
 
 ship - Mention 2 people and they will be shipped together. Won't work for people outside the server.
