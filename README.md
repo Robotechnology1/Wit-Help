@@ -1,6 +1,6 @@
 # Wit - A Discord Bot
 
-This page is split into 4 parts in this order:
+This page is split into 5 parts in this order:
 
 1. Why you should invite Wit
 
