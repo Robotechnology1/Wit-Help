@@ -1,5 +1,17 @@
 # Wit - A Discord Bot
 
+This page is split into 4 parts in this order:
+
+1. Why you should invite Wit
+
+2. Commands
+
+3. FAQ
+
+4. Feedback
+
+5. About
+
 # Why you should invite Wit
 
 Wit is a bot that bring great features to your Discord server. There are a wide variety of commands from minigames to an economy. And, obviously, the bot is witty and loves to insult you, every chance it gets.
@@ -88,3 +100,6 @@ There are two possibilities for this. First, they might just have extremely good
 
 If you want to say anything to the developers, don't DM me, please. You can find the form at the Wit Support Server. Or here: https://dyno.gg/form/edcfa869. 
 
+# About
+
+Wit is a Discord bot developed by Hipur#6322 with help from the utodot#2152 and some early testers. Who you can find in the Wit Support Server. Wit was originally made to insult friends but now it is already in many servers and the amount of commands has grown.
