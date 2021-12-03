@@ -26,6 +26,8 @@ Let's get straight to business. There are 5 categories these commands fall under
 
 **Fun**
 
+insult - Insults the person you mentioned.
+
 8ball - Just does the same thing as any generic 8ball command.
 
 futurejob - Tells you what your future job will be.
