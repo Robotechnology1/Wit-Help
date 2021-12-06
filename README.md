@@ -72,6 +72,8 @@ beg - Go on the street and beg people for Wits. There is a 60 second cooldown fo
 
 leaderboard - Gives you the top richest people in the server. Who are probably still poor.
 
+cleardata - Clears all your data in the server you are in. You must run this command in all servers to completely wipe all your data from the database.
+
 **Misc**
 
 quote - Gives you stock price and the change in percent and price.
