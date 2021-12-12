@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
 # Wit - A Discord Bot
 
 This page is split into 5 parts in this order:
