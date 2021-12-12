@@ -18,7 +18,7 @@ Wit is a bot that bring great features to your Discord server. There are a wide 
 
 **Invite the bot today!**
 
-https://discord.com/oauth2/authorize?client_id=907067389806522450&scope=bot&permissions=4294967039
+[Invite Link!](https://discord.com/oauth2/authorize?client_id=907067389806522450&scope=bot&permissions=4294967039)
 
 # Commands
 
@@ -80,7 +80,7 @@ quote - Gives you stock price and the change in percent and price.
 - Dow Jones: ^DJI
 - S&P 500: ^GSPC
 
-subcount - Gives you the subscriber count of the channel. Wit currently supports most of the Top 100 channels and these additional ones that I added: https://codepen.io/Hipur-Wiz/pen/MWvMPxy
+subcount - Gives you the subscriber count of the channel. Wit currently supports most of the Top 100 channels and these additional ones that I added: [Click Here!](https://codepen.io/Hipur-Wiz/pen/MWvMPxy)
 
 vote - Vote for the bot! Less failure, less baldness, and more!
 
@@ -94,11 +94,11 @@ Normally, you don't notice that the bot went offline. What happens is whatever m
 
 **What is the support server link?**
 
-https://www.discord.gg/jdWBAcyzeA
+[Server Link!](https://www.discord.gg/jdWBAcyzeA)
 
 **How come some people have better luck on commands?**
 
-There are two possibilities for this. First, they might just have extremely good luck. The more likely possibility, is that they voted. Vote for Wit here: https://top.gg/bot/907067389806522450/vote.
+There are two possibilities for this. First, they might just have extremely good luck. The more likely possibility, is that they voted. Vote for Wit here: [Go Vote!](https://top.gg/bot/907067389806522450/vote).
 
 # Feedback
 
