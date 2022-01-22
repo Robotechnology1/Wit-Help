@@ -106,4 +106,4 @@ If you want to say anything to the developers, don't DM me, please. You can find
 
 # About
 
-Wit is a Discord bot developed by Hipur#6322 with help from the utodot#2152 and some early testers. Who you can find in the Wit Support Server. Wit was originally made to insult friends but now it is already in many servers and the amount of commands has grown.
+Wit is a Discord bot developed by Hipur#6322 & utodot#2152 along with some early testers. Who you can find in the Wit Support Server. Wit was originally made to insult friends but now it is already in many servers and the amount of commands has grown.
